@@ -1,5 +1,10 @@
-	1. Singleton Pattern
-	A singleton ensures that only one instance of a class exists throughout the application lifecycle. It’s often used for shared resources like configuration, logging, or connection pools.
+---
+layout: page
+title: Java Patterns
+---
+
+1. Singleton Pattern
+A singleton ensures that only one instance of a class exists throughout the application lifecycle. It’s often used for shared resources like configuration, logging, or connection pools.
 
 Thread-Safety
 In multi-threaded environments, multiple threads might try to create the singleton simultaneously — leading to multiple instances or race conditions.
