@@ -140,7 +140,7 @@ Example: Testable Singleton via Interface
 
 Now in tests:
 
-    LoggerFactory.setLogger(new InMemoryLogger());
+    LoggerFactory.setLogger(new FileLogger());
 
 
 
