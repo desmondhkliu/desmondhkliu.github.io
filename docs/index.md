@@ -1,5 +1,3 @@
-# Welcome to My Knowledge Hub
-
 Explore topics:
 
-- [Java Pattern](java-patterns.md)
+- [Java Pattern](java_patterns.md)
