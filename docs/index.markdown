@@ -6,4 +6,4 @@ layout: home
 ---
 Explore topics:
 
-- [Java Pattern](java_patterns.markdown)
+- [Java Pattern](/programming/java/java_patterns)
